@@ -30,7 +30,8 @@
     export default {
       name: "MainTabBar",
       components: {
-        TabBar, TabBarItem
+        TabBar, 
+        TabBarItem
       }
     }
   </script>
